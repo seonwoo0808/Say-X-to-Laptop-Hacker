@@ -13,4 +13,6 @@ Support Only "Windows"
 
 ## How to Use
 
-Very EZ Just launch app.py
+Very EZ
+Install Dependencies
+And launch app.py
