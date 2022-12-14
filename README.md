@@ -3,6 +3,7 @@
 ## Notice
 
 This project was made to say F to KDMHS Hardware hacker
+Support Only "Windows" 
 
 ## Function
 
