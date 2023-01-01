@@ -1,4 +1,4 @@
-# Say F to Hardware Hacker
+# Say X to Hardware Hacker
 
 ## Notice
 
