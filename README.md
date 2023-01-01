@@ -1,4 +1,4 @@
-# Say X to Hardware Hacker
+# Say X to Physical Hacker
 
 ## 배경설명
 한국디지털미디어고등학교에는 장난으로 친구들의 잠금해제된 노트북을 건드리는 것을 "물리해킹"이라고 한다
