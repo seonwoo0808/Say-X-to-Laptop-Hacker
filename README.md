@@ -17,6 +17,6 @@ Support Only "Windows"
 
 ## How to Use
 
-Very EZ
-Install Dependencies
-And launch app.py
+```Very EZ```
+1. Install Dependencies
+2. And launch app.py
